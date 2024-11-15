@@ -1,2 +1,2 @@
 # DevOps-Practices
-This is my DevIOps Project
+This is my DevOps Project
